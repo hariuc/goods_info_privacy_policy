@@ -21,7 +21,8 @@ Our Privacy Policy may change from time to time. We will post any Privacy Policy
 If you have any questions or concerns about our privacy policies, please contact us: acvatoris@gmail.com
 
 ## Политика конфиденциальности
-Эта политика конфиденциальности описывает условия получения и использования информации мобильными приложениями "SOFT CONTABIL SOLUTION".
+Эта политика конфиденциальности описывает условия получения и использования информации мобильными 
+приложениями "SOFT CONTABIL SOLUTION".
 
 ### Наше приложение:
 * Не собирают никакой личной пользовательской информации.
